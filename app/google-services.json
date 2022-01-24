@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "765190227877",
+    "project_id": "bodyworks-a1655",
+    "storage_bucket": "bodyworks-a1655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765190227877:android:b378b48611e2e0fb3f8a4c",
+        "android_client_info": {
+          "package_name": "com.bodyworks.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765190227877-hulmpjge7ri1l5th2m2323s2i3asbb31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkC4VbR0L5n4JWKqltKXKNIHyoT9QptXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765190227877-hulmpjge7ri1l5th2m2323s2i3asbb31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765190227877:android:8c181e0af934cd683f8a4c",
+        "android_client_info": {
+          "package_name": "com.example.bodyworks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765190227877-hulmpjge7ri1l5th2m2323s2i3asbb31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkC4VbR0L5n4JWKqltKXKNIHyoT9QptXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765190227877-hulmpjge7ri1l5th2m2323s2i3asbb31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
